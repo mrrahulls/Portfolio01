@@ -93,7 +93,7 @@ const About = () => {
           >
             <div className="glass-effect p-8 rounded-2xl neon-border">
               <h3 className="text-2xl font-semibold mb-4 text-purple-light">
-                Data Analyst & Python Developer
+                Data Analyst & Python Eng
               </h3>
               <p className="text-gray-300 leading-relaxed mb-4">
                 Proficient in data analysis, data scraping, and software support, with a BCA from JECRC University, 
